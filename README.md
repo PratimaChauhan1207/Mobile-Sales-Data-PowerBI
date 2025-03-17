@@ -16,13 +16,8 @@ This Power BI dashboard provides insights into mobile sales data, including:
 - **Power BI** (for data visualization)  
 - **Excel** (data cleaning)  
 
-## 💡 Key Insights:
-📈 The sales peaked in [XYZ Month]  
-📉 The lowest transactions were in [XYZ Month]  
-💰 The highest-selling model was [XYZ Model]  
-
 ## 🚀 Check Out the Full Dashboard:
-🔗 [Download PBIX File](https://github.com/PratimaChauhan1207/Mobile-Sales-Data-PowerBI/blob/main/Mobile%20data.pbix)  
+🔗 [Download PBIX File](https://drive.google.com/file/d/1VkKsl6zw761DNHtwi6FMM1mcin6DpcG7/view?usp=sharing)  
 
 ## 💬 Feedback?
 I’d love to hear your thoughts! Let me know what you think! 😊
